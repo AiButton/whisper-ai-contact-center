@@ -2,4 +2,4 @@
 
 From the whisper-docker container,
 
-**docker build -t whisper-app-transcriptions .  **
+**docker build -t whisper-app-transcriptions .**
