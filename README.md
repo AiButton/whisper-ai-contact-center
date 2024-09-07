@@ -9,3 +9,6 @@ From the whisper-docker container,
 
 ## Starting the API
 **docker run -p 8000:8000 whisper-app-transcriptions**
+
+## Testing the API
+![Alt text](docs/postman.png)
