@@ -28,7 +28,7 @@ def decode_base64_to_audio(base64_str: str) -> torch.Tensor:
 
 
 
-@app.post("/transcribe/")
+@app.post("/transcribe")
 async def transcribe(audio_data: AudioData):
     try:
         # Decode base64 string
