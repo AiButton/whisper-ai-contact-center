@@ -18,7 +18,7 @@ def encode_audio_to_base64(file_path: str) -> str:
 
 if __name__ == "__main__":
     # Replace 'path_to_your_audio_file.wav' with the path to your audio file
-    file_path = '../sounds/languages-simith.wav'
+    file_path = 'YOUR_AUDIO_FILE_PATH'
     base64_encoded_audio = encode_audio_to_base64(file_path)
     print(base64_encoded_audio)
 
