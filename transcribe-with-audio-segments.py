@@ -1,6 +1,6 @@
 import whisper
 
-whisper_model = whisper.load_model("large")
+whisper_model = whisper.load_model("medium")
 
 # Function to transcribe audio
 def transcribe_audio(audio_file,initial_prompt):
