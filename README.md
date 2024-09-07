@@ -1,3 +1,6 @@
+## About
+This is a repository for building a Transcription API using Open AI Whisper
+
 ## Building the Docker container
 
 From the whisper-docker container,
