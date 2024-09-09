@@ -3,7 +3,7 @@ This is a repository for building a Transcription API using Open AI Whisper. You
 
 ## Building the Docker container
 
-From the whisper-docker container,
+From the whisper-docker directory,
 
 **docker build -t whisper-app-transcriptions .**
 
